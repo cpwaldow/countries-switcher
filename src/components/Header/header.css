@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+
+.title {
+  font-family: 'Noto Serif', serif;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
